@@ -1,0 +1,95 @@
+.lottie-animation {
+  width: 300px;
+}
+
+.lottie-animation._2 {
+  width: 100vw;
+}
+
+.body {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  background-color: #fff;
+  -webkit-perspective: 2000px;
+  perspective: 2000px;
+}
+
+.lottie-animation-2 {
+  width: 100vw;
+}
+
+.div-block {
+  width: 800px;
+  padding: 0px;
+  background-color: #ffa2a2;
+}
+
+.lottie-animation-3 {
+  background-color: #522c2c;
+}
+
+.lottie-animation-4 {
+  width: 50vw;
+}
+
+.html-embed {
+  width: 100vw;
+  height: 100vh;
+}
+
+.lottie-animation-5 {
+  width: 500px;
+}
+
+.content {
+  width: 100vw;
+  height: 100vh;
+}
+
+.canvas {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  width: 100vw;
+  height: 100vh;
+}
+
+.heading {
+  position: absolute;
+  bottom: 25px;
+  margin: 0px auto 35px;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.image {
+  position: fixed;
+  left: auto;
+  top: 30px;
+  right: auto;
+  bottom: auto;
+  width: 100px;
+}
+
+@media screen and (max-width: 479px) {
+  .heading {
+    display: none;
+  }
+  .image {
+    width: 60px;
+  }
+}
